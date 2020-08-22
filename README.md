@@ -1,2 +1,2 @@
 # Hamburger-Lesson
-dmm webcampのjQueryに関する練習教材　: ハンバーガーメニューをつくろう
+jQueryに関する練習教材　: ハンバーガーメニューをつくろう
